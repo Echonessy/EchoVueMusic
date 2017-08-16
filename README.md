@@ -1,6 +1,6 @@
-# echom
+# EchoMusic By Echonessy
 
-> this is my music web
+> this is my vue-music
 
 ## Build Setup
 
