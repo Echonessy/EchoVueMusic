@@ -38,4 +38,4 @@ npm run build --report
 ## 效果图
 ![image](https://github.com/Echonessy/EchoMusic/blob/master/read/1.png)
 
-![image](https://github.com/Echonessy/EchoMusic/blob/master/read/2.png)
+![image](https://github.com/Echonessy/EchoMusic/blob/master/read/3.png)
