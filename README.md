@@ -1,4 +1,4 @@
-# EchoMusic By Echonessy
+# EchoVueMusic By Echonessy
 
 > this is my vue-music
 
@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:2525
 npm run dev
 
 # build for production with minification
@@ -36,6 +36,6 @@ npm run build --report
 
 ```
 ## 效果图
-![image](https://github.com/Echonessy/EchoMusic/blob/master/read/1.png)
+![image](https://github.com/Echonessy/EchoVueMusic/blob/master/read/1.png)
 
-![image](https://github.com/Echonessy/EchoMusic/blob/master/read/3.png)
+![image](https://github.com/Echonessy/EchoVueMusic/blob/master/read/3.png)
