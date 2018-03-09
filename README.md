@@ -36,6 +36,5 @@ npm run build --report
 
 ```
 ## 效果图
-
-![image](https://github.com/EchoMusic/blob/master/read/1.png)
-![image](https://github.com/EchoMusic/blob/master/read/2.png)
+![image](https://github.com/EchoMusic/tree/master/read/1.png)
+![image](https://github.com/EchoMusic/tree/master/read/2.png)
