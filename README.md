@@ -35,5 +35,7 @@ npm run build --report
  npm install vue-resource --save-dev
 
 ```
+## 效果图
+![image](https://github.com/EchoPage/EchoMusic/blob/master/read/1.png)
+![image](https://github.com/EchoPage/EchoMusic/blob/master/read/2.png)
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
