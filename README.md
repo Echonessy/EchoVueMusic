@@ -29,7 +29,7 @@ npm run build --report
      "vue-router": "^2.6.0"
   },
 ```
-> 目前相关依赖安装指令
+> 目前相关依赖安装指令示例
 
 ``` bash
 
