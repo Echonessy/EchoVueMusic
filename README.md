@@ -11,6 +11,8 @@ npm install
 # serve with hot reload at localhost:2525
 npm run dev
 
+访问 http://localhost:2525/#/
+
 # build for production with minification
 npm run build
 
